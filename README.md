@@ -58,14 +58,14 @@ This project consists of a simple client-server application using TCP/IP. The se
 
 **Server Output:**
 
-```plaintext
+```
 Server listening on port 5555...
 New connection received from 127.0.0.1:12345
 Connection with 127.0.0.1:12345 closed.
+```
 
 ## Cliente Interaction:
 
-```
 Enter a message (or 'exit' to quit): hello
 Response received: olleh
 Enter a message (or 'exit' to quit): world
